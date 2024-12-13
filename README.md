@@ -1,6 +1,7 @@
 # Capstone Project – A Small School
 
 ## Physical Topology
+![image](https://github.com/user-attachments/assets/ee903931-986d-4851-b0d0-fc2628f31e24)
 
 ### Design Objectives
 
@@ -57,11 +58,13 @@
 ### Wi-Fi Network Features
 
 - **Campus Dedicated SSID (CITE):**
+![image](https://github.com/user-attachments/assets/b0d80e02-8819-4a74-b9cb-20729e0f1330)
   - **Target Users:** Faculty and students at the school.
   - **Functionality:** Provides internet access for internal users of the school. Currently managed with a high-strength password to ensure basic network security. Additionally, the SSID is hidden, allowing only internal personnel with necessary credentials to connect.
   - **Future Plans:** A Wireless LAN Controller (WLC) will be introduced for centralized management, and a RADIUS server will be configured to enhance authentication efficiency and security, achieving more intelligent and precise network control.
 
 - **Guest SSID (CITE-GUEST):**
+![image](https://github.com/user-attachments/assets/7e7fef62-bf40-4c00-ac81-e4eac5b59e44)
   - **Target Users:** External visitors.
   - **Functionality:** Provides internet access for visitors, isolated from the internal campus network to ensure the security of the internal network.
   - **Authentication Method:** Web-based authentication is used, requiring visitors to log in via a web portal before accessing the network. This approach enhances flexibility and security in visitor management.
@@ -98,6 +101,8 @@
 | Wi-Fi Router   | LAN1        |                          |
 
 ## Logical Topology
+![image](https://github.com/user-attachments/assets/717db76f-7a91-4fa3-8984-b7cdd8b9a085)
+
 
 ### Core Layer
 
